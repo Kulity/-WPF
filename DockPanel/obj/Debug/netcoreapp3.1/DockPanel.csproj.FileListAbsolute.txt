@@ -1,0 +1,17 @@
+C:\програмирование\DockPanel\DockPanel\bin\Debug\netcoreapp3.1\DockPanel.exe
+C:\програмирование\DockPanel\DockPanel\bin\Debug\netcoreapp3.1\DockPanel.deps.json
+C:\програмирование\DockPanel\DockPanel\bin\Debug\netcoreapp3.1\DockPanel.runtimeconfig.json
+C:\програмирование\DockPanel\DockPanel\bin\Debug\netcoreapp3.1\DockPanel.runtimeconfig.dev.json
+C:\програмирование\DockPanel\DockPanel\bin\Debug\netcoreapp3.1\DockPanel.dll
+C:\програмирование\DockPanel\DockPanel\bin\Debug\netcoreapp3.1\DockPanel.pdb
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\DockPanel.csprojAssemblyReference.cache
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\App.g.cs
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\DockPanel_MarkupCompile.cache
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\DockPanel_MarkupCompile.lref
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\DockPanel.g.resources
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\DockPanel.AssemblyInfoInputs.cache
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\DockPanel.AssemblyInfo.cs
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\DockPanel.dll
+C:\програмирование\DockPanel\DockPanel\obj\Debug\netcoreapp3.1\DockPanel.pdb
