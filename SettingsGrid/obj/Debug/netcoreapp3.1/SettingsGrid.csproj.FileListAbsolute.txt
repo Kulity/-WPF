@@ -1,0 +1,17 @@
+C:\програмирование\SettingsGrid\SettingsGrid\bin\Debug\netcoreapp3.1\SettingsGrid.exe
+C:\програмирование\SettingsGrid\SettingsGrid\bin\Debug\netcoreapp3.1\SettingsGrid.deps.json
+C:\програмирование\SettingsGrid\SettingsGrid\bin\Debug\netcoreapp3.1\SettingsGrid.runtimeconfig.json
+C:\програмирование\SettingsGrid\SettingsGrid\bin\Debug\netcoreapp3.1\SettingsGrid.runtimeconfig.dev.json
+C:\програмирование\SettingsGrid\SettingsGrid\bin\Debug\netcoreapp3.1\SettingsGrid.dll
+C:\програмирование\SettingsGrid\SettingsGrid\bin\Debug\netcoreapp3.1\SettingsGrid.pdb
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\SettingsGrid.csprojAssemblyReference.cache
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\App.g.cs
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\SettingsGrid_MarkupCompile.cache
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\SettingsGrid_MarkupCompile.lref
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\SettingsGrid.g.resources
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\SettingsGrid.AssemblyInfoInputs.cache
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\SettingsGrid.AssemblyInfo.cs
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\SettingsGrid.dll
+C:\програмирование\SettingsGrid\SettingsGrid\obj\Debug\netcoreapp3.1\SettingsGrid.pdb
