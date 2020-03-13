@@ -1,0 +1,17 @@
+C:\програмирование\Grid\Grid\bin\Debug\netcoreapp3.1\Grid.exe
+C:\програмирование\Grid\Grid\bin\Debug\netcoreapp3.1\Grid.deps.json
+C:\програмирование\Grid\Grid\bin\Debug\netcoreapp3.1\Grid.runtimeconfig.json
+C:\програмирование\Grid\Grid\bin\Debug\netcoreapp3.1\Grid.runtimeconfig.dev.json
+C:\програмирование\Grid\Grid\bin\Debug\netcoreapp3.1\Grid.dll
+C:\програмирование\Grid\Grid\bin\Debug\netcoreapp3.1\Grid.pdb
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\Grid.csprojAssemblyReference.cache
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\App.g.cs
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\Grid_MarkupCompile.cache
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\Grid_MarkupCompile.lref
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\Grid.g.resources
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\Grid.AssemblyInfoInputs.cache
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\Grid.AssemblyInfo.cs
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\Grid.dll
+C:\програмирование\Grid\Grid\obj\Debug\netcoreapp3.1\Grid.pdb
