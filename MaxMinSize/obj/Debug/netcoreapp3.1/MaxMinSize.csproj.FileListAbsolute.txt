@@ -1,0 +1,17 @@
+C:\програмирование\MaxMinSize\MaxMinSize\bin\Debug\netcoreapp3.1\MaxMinSize.exe
+C:\програмирование\MaxMinSize\MaxMinSize\bin\Debug\netcoreapp3.1\MaxMinSize.deps.json
+C:\програмирование\MaxMinSize\MaxMinSize\bin\Debug\netcoreapp3.1\MaxMinSize.runtimeconfig.json
+C:\програмирование\MaxMinSize\MaxMinSize\bin\Debug\netcoreapp3.1\MaxMinSize.runtimeconfig.dev.json
+C:\програмирование\MaxMinSize\MaxMinSize\bin\Debug\netcoreapp3.1\MaxMinSize.dll
+C:\програмирование\MaxMinSize\MaxMinSize\bin\Debug\netcoreapp3.1\MaxMinSize.pdb
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\MaxMinSize.csprojAssemblyReference.cache
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\App.g.cs
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\MaxMinSize_MarkupCompile.cache
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\MaxMinSize_MarkupCompile.lref
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\MaxMinSize.g.resources
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\MaxMinSize.AssemblyInfoInputs.cache
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\MaxMinSize.AssemblyInfo.cs
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\MaxMinSize.dll
+C:\програмирование\MaxMinSize\MaxMinSize\obj\Debug\netcoreapp3.1\MaxMinSize.pdb
