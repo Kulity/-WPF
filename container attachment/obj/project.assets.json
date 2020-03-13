@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\програмирование\\для отката приложения\\Homework2\\-WPF\\Komponovka\\Komponovka.csproj",
-      "projectName": "Komponovka",
-      "projectPath": "C:\\програмирование\\для отката приложения\\Homework2\\-WPF\\Komponovka\\Komponovka.csproj",
+      "projectUniqueName": "C:\\програмирование\\container attachment\\container attachment\\container attachment.csproj",
+      "projectName": "container attachment",
+      "projectPath": "C:\\програмирование\\container attachment\\container attachment\\container attachment.csproj",
       "packagesPath": "C:\\Users\\FAMILY\\.nuget\\packages\\",
-      "outputPath": "C:\\програмирование\\для отката приложения\\Homework2\\-WPF\\Komponovka\\obj\\",
+      "outputPath": "C:\\програмирование\\container attachment\\container attachment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FAMILY\\AppData\\Roaming\\NuGet\\NuGet.Config",

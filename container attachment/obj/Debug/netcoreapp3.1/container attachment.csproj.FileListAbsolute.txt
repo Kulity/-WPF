@@ -1,0 +1,17 @@
+C:\програмирование\container attachment\container attachment\bin\Debug\netcoreapp3.1\container attachment.exe
+C:\програмирование\container attachment\container attachment\bin\Debug\netcoreapp3.1\container attachment.deps.json
+C:\програмирование\container attachment\container attachment\bin\Debug\netcoreapp3.1\container attachment.runtimeconfig.json
+C:\програмирование\container attachment\container attachment\bin\Debug\netcoreapp3.1\container attachment.runtimeconfig.dev.json
+C:\програмирование\container attachment\container attachment\bin\Debug\netcoreapp3.1\container attachment.dll
+C:\програмирование\container attachment\container attachment\bin\Debug\netcoreapp3.1\container attachment.pdb
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\container attachment.csprojAssemblyReference.cache
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\App.g.cs
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\container attachment_MarkupCompile.cache
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\container attachment_MarkupCompile.lref
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\container attachment.g.resources
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\container attachment.AssemblyInfoInputs.cache
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\container attachment.AssemblyInfo.cs
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\container attachment.dll
+C:\програмирование\container attachment\container attachment\obj\Debug\netcoreapp3.1\container attachment.pdb
