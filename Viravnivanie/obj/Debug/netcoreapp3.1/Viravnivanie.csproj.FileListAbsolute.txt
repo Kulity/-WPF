@@ -1,0 +1,17 @@
+C:\програмирование\Viravnivanie\Viravnivanie\bin\Debug\netcoreapp3.1\Viravnivanie.exe
+C:\програмирование\Viravnivanie\Viravnivanie\bin\Debug\netcoreapp3.1\Viravnivanie.deps.json
+C:\програмирование\Viravnivanie\Viravnivanie\bin\Debug\netcoreapp3.1\Viravnivanie.runtimeconfig.json
+C:\програмирование\Viravnivanie\Viravnivanie\bin\Debug\netcoreapp3.1\Viravnivanie.runtimeconfig.dev.json
+C:\програмирование\Viravnivanie\Viravnivanie\bin\Debug\netcoreapp3.1\Viravnivanie.dll
+C:\програмирование\Viravnivanie\Viravnivanie\bin\Debug\netcoreapp3.1\Viravnivanie.pdb
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\Viravnivanie.csprojAssemblyReference.cache
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\App.g.cs
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\Viravnivanie_MarkupCompile.cache
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\Viravnivanie_MarkupCompile.lref
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\Viravnivanie.g.resources
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\Viravnivanie.AssemblyInfoInputs.cache
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\Viravnivanie.AssemblyInfo.cs
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\Viravnivanie.dll
+C:\програмирование\Viravnivanie\Viravnivanie\obj\Debug\netcoreapp3.1\Viravnivanie.pdb
