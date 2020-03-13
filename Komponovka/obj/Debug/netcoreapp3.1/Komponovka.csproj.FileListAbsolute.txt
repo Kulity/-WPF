@@ -1,0 +1,17 @@
+C:\програмирование\Komponovka\Komponovka\bin\Debug\netcoreapp3.1\Komponovka.exe
+C:\програмирование\Komponovka\Komponovka\bin\Debug\netcoreapp3.1\Komponovka.deps.json
+C:\програмирование\Komponovka\Komponovka\bin\Debug\netcoreapp3.1\Komponovka.runtimeconfig.json
+C:\програмирование\Komponovka\Komponovka\bin\Debug\netcoreapp3.1\Komponovka.runtimeconfig.dev.json
+C:\програмирование\Komponovka\Komponovka\bin\Debug\netcoreapp3.1\Komponovka.dll
+C:\програмирование\Komponovka\Komponovka\bin\Debug\netcoreapp3.1\Komponovka.pdb
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\Komponovka.csprojAssemblyReference.cache
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\App.g.cs
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\Komponovka_MarkupCompile.cache
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\Komponovka_MarkupCompile.lref
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\Komponovka.g.resources
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\Komponovka.AssemblyInfoInputs.cache
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\Komponovka.AssemblyInfo.cs
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\Komponovka.dll
+C:\програмирование\Komponovka\Komponovka\obj\Debug\netcoreapp3.1\Komponovka.pdb
